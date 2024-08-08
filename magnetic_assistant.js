@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  解析磁力网站搜索后页面上的磁力链接，显示为表格，并提供复制按钮。
 // @author       lyleOuO
-// @downloadURL  https://example.com/your-script.user.js
+// @downloadURL  https://github.com/lyleOuO/tampermonkey/blob/main/magnetic_assistant.js
 // @match        https://en.btdig.com/*
 // @match        https://fzxuvyyi.clg167.buzz/*
 // @match        https://javdb.com/*
